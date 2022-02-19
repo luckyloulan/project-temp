@@ -43,7 +43,7 @@ export function onRouteChange({
   location: Location;
   action: string;
 }) {
-  console.log(routes, matchedRoutes, location, action);
+  // console.log(routes, matchedRoutes, location, action);
 }
 
 /**
